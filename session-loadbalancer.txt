@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=-9C2ZtdAAFY
+
+https://www.youtube.com/watch?v=cYBdaeNeXbY      for delta manager
+
+https://www.youtube.com/watch?v=vgbUKiNg6lU      for backup manager
+
+
+URL:http://www.youtube.com/watch?v=KnX0p2Ey3Ek    for session hijacking
+
+
+session to available on sub domain 
+
+http://stackoverflow.com/questions/16179602/session-set-cookie-params-setting-two-cookies-after-redirect
